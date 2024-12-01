@@ -2,8 +2,6 @@
 
 _tinynet is an implementation of a ternary language model as described in the [BitNet b1.58](https://arxiv.org/abs/2402.17764) paper_  
 
-## _Citation_
-
 ```
 @misc{ma2024era1bitllmslarge,
       title={The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits}, 
